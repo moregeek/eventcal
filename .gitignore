@@ -5,3 +5,6 @@ notes.txt
 debug.json
 errors.log
 stats.json
+# ignore stats file and errors
+eventcal.errors.log
+eventcal.stats.json
